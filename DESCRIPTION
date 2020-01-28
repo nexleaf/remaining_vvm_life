@@ -1,13 +1,12 @@
 Package: vvmath
-Title: What the Package Does (One Line, Title Case)
+Title: Calculations For Remaining VVM Life
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jesse",
+           family = "Ross",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "jesse@nexleaf.org")
+Description: This package implements calculations to determine the life remaining in a Vaccine Vial Monitor (VVM) based on its temperature exposure, following the methods of Goldwood and Diesburg 2018.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
