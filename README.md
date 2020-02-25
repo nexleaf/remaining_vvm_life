@@ -1,0 +1,1 @@
+This package implements calculations to determine the life remaining in a Vaccine Vial Monitor (VVM) based on its temperature exposure, following the methods of [Goldwood and Diesburg 2018](https://www.sciencedirect.com/science/article/pii/S0264410X17315852).
